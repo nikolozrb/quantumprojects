@@ -1,2 +1,2 @@
 # quantumprojects
-Quqntum projects generic repo
+Quantum projects generic repo
